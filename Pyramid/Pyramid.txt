@@ -1,0 +1,21 @@
+Pyramid
+
+© 03/2000 By S. Swertvaegher
+
+The game is to reach the end point in the puzzle.
+There are 50 levels. Each level has a different layout.
+You start at the bottom line of the puzzle. Click the matching color, and move on.
+Find your way through the colors and try to reach the end point.
+There's a time limit !
+You can encounter:
+- A color changer. The working color will be changed, and you have to move on
+with that color. Sometimes it is smart to change the color more then once.
+- A skull. This will reset the level. You have to start over.
+
+When you are trapped, hit the Reset-button. This will reset the level, and you can start
+the puzzle all over.
+
+A LEVEL-RESET WILL NOT RESET THE TIME !!!
+
+When your time is up, you will loose a life.
+Every 5 levels, you have a new life, for a max. of 9 lives.
